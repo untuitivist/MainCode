@@ -1,4 +1,8 @@
-ChangeLog_1
+2023-10-25: create MainCode
 
-2
+2023-10-25: create MainCode/Class,Learn,Work
+
+
+
+
 
